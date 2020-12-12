@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puttareddy/yashu-alexa-skill.git"
+    "url": "git+https://github.com/ratnanabh/alexa-skill1.git"
   },
   "keywords": [
     "alexa",
@@ -20,7 +20,7 @@
   "author": "Puttaiah Arugunta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/puttareddy/yashu-alexa-skill/issues"
+    "url": "https://github.com/ratnanabh/alexa-skill1/issues"
   },
   "dependencies": {
     "alexa-app": "^4.0.0",
