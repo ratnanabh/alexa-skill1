@@ -1,5 +1,5 @@
 {
-  "name": "yashu-alexa-skill",
+  "name": "ssa-alexa-skill",
   "version": "0.0.1",
   "description": "An example Alexa Skill project using the alexa-app module with Express.",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "echo",
     "skills"
   ],
-  "author": "Puttaiah Arugunta",
+  "author": "Ratnanabh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ratnanabh/alexa-skill1/issues"
